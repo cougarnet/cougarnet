@@ -13,7 +13,7 @@ We are in **Phase I**, objectives include:
 Network simulation will be hosted on: Cisco Packet Tracer
 ## Resources that may help you
 [Installing Packet Tracer](https://apiit.atlassian.net/wiki/spaces/ITSM/pages/2386329611/Installation+Guideline+for+Cisco+Packet+Tracer+8.2.1+Windows+11)  
-[CiscoIOS cheat sheet](https://cheatography.com/theleran/cheat-sheets/cisco-ios-cli/)
+[CiscoIOS cheat sheet](https://cheatography.com/theleran/cheat-sheets/cisco-ios-cli/)/
 [Introductory Guide to Enterprise Network Design](https://netboxlabs.com/blog/enterprise-network-design-guide/)
 [Network Devices Explained](https://dev.to/vignesh-j/computer-networking-full-course-5c80)
 [OSI Model](https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-model-osi/)
