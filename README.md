@@ -16,4 +16,4 @@ Network simulation will be hosted on: Cisco Packet Tracer
 [CiscoIOS cheat sheet](https://cheatography.com/theleran/cheat-sheets/cisco-ios-cli/)\
 [Introductory Guide to Enterprise Network Design](https://netboxlabs.com/blog/enterprise-network-design-guide/)\
 [Network Devices Explained](https://dev.to/vignesh-j/computer-networking-full-course-5c80)\
-[OSI Model](https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-model-osi/)\
+[OSI Model](https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-model-osi/)
